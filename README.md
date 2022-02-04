@@ -2,7 +2,7 @@
 
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@affanthegreat-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/affanthegreat00)](https://twitter.com/affanthegreat) [![Linkedin Badge](https://img.shields.io/badge/-AffanAhmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/affan-ahmed-33458b15a/)](www.linkedin.com/in/affan-ahmed-33458b15a/) [
+[![Twitter Badge](https://img.shields.io/badge/-@affanthegreat-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/affanthegreat00)](https://twitter.com/affanthegreat) [![Linkedin Badge](https://img.shields.io/badge/-AffanAhmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/affan-ahmed-33458b15a/)](www.linkedin.com/in/affan-ahmed-33458b15a/) 
 [![GitHub followers](https://img.shields.io/github/followers/affanthegreat?label=Follow&style=social)](https://github.com/affanthegreat/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-thegreataffan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thegreataffan@gmail.com)](mailto:thegreataffan@gmail.com)
 ![](https://komarev.com/ghpvc/?username=affanthegreat)
