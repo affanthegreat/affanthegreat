@@ -32,7 +32,7 @@
 - 💬 Ping Me about #cloud, #ApplicationDevelopment, #Startups, #MachineLearning, #, #UiUX  and anything you like
 
 
-#Upper to Lower and vice versa
+# Upper to Lower and vice versa
 %{
 #include<stdio.h>
 %}
@@ -40,6 +40,28 @@
 %%
 [a-z] {fprintf(yyout, "%c",yytext[0]-32);}
 [A-Z] {fprintf(yyout, "%c" , yytext[0]+32);}
+%%
+
+int yywrap(){
+return 1;
+}
+
+int main()
+{
+	extern FILE *yyin,*yyout;
+	yyin=fopen("input.txt","r");
+	yyout=fopen("output.txt","w");
+	yylex();
+	return 0;
+}
+# Character read
+%{
+#include<stdio.h>
+%}
+
+%%
+[a-zA-Z] {fprintf(yyout,"%c",yytext[0]);}
+. {}
 %%
 
 int yywrap(){
