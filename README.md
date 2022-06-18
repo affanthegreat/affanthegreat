@@ -32,15 +32,6 @@
 - 💬 Ping Me about #cloud, #ApplicationDevelopment, #Startups, #MachineLearning, #, #UiUX  and anything you like
 
 
-
-
-![Affans's github stats](https://github-readme-stats.vercel.app/api?username=affanthegreat&show_icons=true&theme=dark)
-
-<!--
-**affanthegreat/affanthegreat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-🤔
-
 #Upper to Lower and vice versa
 %{
 #include<stdio.h>
@@ -63,4 +54,13 @@ int main()
 	yylex();
 	return 0;
 }
+
+![Affans's github stats](https://github-readme-stats.vercel.app/api?username=affanthegreat&show_icons=true&theme=dark)
+
+<!--
+**affanthegreat/affanthegreat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+🤔
+
+
 -->
