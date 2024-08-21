@@ -15,7 +15,6 @@
 - 🏄‍ Passionate about future and always want to play a role in changing the world.
 - 😄 My expertise lies in Flutter development, UI and UX management,Machine learning and cloud computing with AWS and GCP.
 - 🔭 Heavily interested and invested in <b>Quantum Computing</b> and <b>Cryptos</b>
-- 🌱 Currently working on <b>DSA</b> and <b>Backend with Go</b>
 - 👯 And Many More...
 
 
